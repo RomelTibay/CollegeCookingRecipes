@@ -721,4 +721,42 @@ Recipe Template
   color: var(--primary-500);
   text-transform: capitalize;
 }
+
+/* Search bar */
+.search-bar {
+  position: absolute;
+  top: 41px;
+  left: 1068px;
+  width: 737px;
+  height: 57px;
+  background-color: #f2f2f2;
+  display: flex;
+  align-items: center;
+  border-radius: 28.5px; /* Half of the height */
+  overflow: hidden; /* Ensures content inside doesn't overflow rounded corners */
+}
+
+.search-bar input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  padding: 0 10px;
+  box-sizing: border-box;
+  font-size: 16px;
+  outline: none; /* Remove the default input outline */
+  font-family: aclonica;
+}
+
+/* for the tags recipes button */
+.tags-list button {
+  background-color: transparent;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.tags-list button:hover {
+  background-color: #f2f2f2;
+}
 }
