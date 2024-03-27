@@ -1,0 +1,151 @@
+.recipe-4-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-sandybrown);
+  width: 1474px;
+  height: 159px;
+}
+.home3 {
+  position: absolute;
+  top: 49px;
+  left: 312px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 398px;
+  height: 176px;
+  opacity: 0.22;
+}
+.college-cooking1 {
+  margin: 0;
+}
+.college-cooking-recipes-container1 {
+  position: absolute;
+  top: 42px;
+  left: 57px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 398px;
+  height: 176px;
+  opacity: 0.22;
+}
+.pancit-canton-it {
+  position: absolute;
+  top: 858px;
+  left: 299px;
+  text-align: center;
+  display: inline-block;
+  width: 846px;
+}
+.image-22-icon {
+  position: absolute;
+  top: 218px;
+  left: 76px;
+  width: 1291px;
+  height: 595px;
+  object-fit: cover;
+}
+.canton {
+  position: absolute;
+  top: 671px;
+  left: 889px;
+  font-size: var(--font-size-109xl);
+  color: var(--color-sandybrown);
+  display: inline-block;
+  width: 579px;
+  height: 177px;
+}
+.canton,
+.pancit,
+.span {
+  font-weight: 600;
+}
+.pancit {
+  position: absolute;
+  top: 166px;
+  left: 67px;
+  font-size: var(--font-size-109xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 605px;
+  height: 210px;
+}
+.span {
+  font-family: var(--font-poppins);
+}
+.grams-flour-stick-noodles {
+  margin-bottom: 0;
+}
+.onion1 {
+  text-decoration: underline;
+}
+.onion {
+  color: inherit;
+}
+.grams-flour-stick-noodles-4-ou {
+  margin: 0;
+  font-size: inherit;
+  padding-left: var(--padding-24xl);
+}
+.ingredients-250-grams-flour-s-container {
+  position: absolute;
+  top: 1239px;
+  left: 14px;
+  text-align: center;
+  display: inline-block;
+  width: 708px;
+}
+.instructions1 {
+  margin: 0;
+  font-weight: 600;
+}
+.instructions-place-2-container {
+  position: absolute;
+  top: 2150px;
+  left: 23px;
+  text-align: center;
+  display: inline-block;
+  width: 653px;
+  height: 1295px;
+}
+.image-23-icon {
+  position: absolute;
+  top: 1243px;
+  left: 737px;
+  width: 683px;
+  height: 808px;
+  object-fit: cover;
+}
+.image-24-icon,
+.image-25-icon,
+.image-26-icon {
+  position: absolute;
+  top: 2055px;
+  left: 1079px;
+  width: 341px;
+  height: 562px;
+  object-fit: cover;
+}
+.image-24-icon,
+.image-26-icon {
+  left: 742px;
+  width: 337px;
+}
+.image-26-icon {
+  top: 2623px;
+  width: 678px;
+  height: 906px;
+}
+.recipe-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3675px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
