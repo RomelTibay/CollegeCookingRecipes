@@ -1,0 +1,165 @@
+.the-savory-umami-combination {
+  position: absolute;
+  top: 896px;
+  left: 59px;
+  font-size: var(--font-size-13xl);
+  text-align: center;
+  display: inline-block;
+  width: 1356px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f8ae57;
+  width: 1474px;
+  height: 159px;
+}
+.home {
+  position: absolute;
+  top: 57px;
+  left: 289px;
+  font-weight: 600;
+  display: inline-block;
+  width: 398px;
+  height: 176px;
+  opacity: 0.22;
+}
+.college-cooking {
+  margin: 0;
+}
+.college-cooking-recipes-container {
+  position: absolute;
+  top: 50px;
+  left: 34px;
+  font-weight: 600;
+  display: inline-block;
+  width: 398px;
+  height: 176px;
+  opacity: 0.22;
+}
+.image-7-icon {
+  position: absolute;
+  top: 1664px;
+  left: 64px;
+  width: 751px;
+  height: 302px;
+  object-fit: cover;
+}
+.group-item {
+  position: absolute;
+  top: 2225px;
+  left: 927px;
+  border-radius: 20px;
+  background: linear-gradient(
+    110.72deg,
+    rgba(255, 255, 255, 0.36),
+    rgba(196, 196, 196, 0.06)
+  );
+  backdrop-filter: blur(30px);
+  border: 3px solid rgba(255, 255, 255, 0.7);
+  box-sizing: border-box;
+  width: 359px;
+  height: 211px;
+}
+.image-4-icon,
+.image-6-icon,
+.image-8-icon {
+  position: absolute;
+  top: 2719px;
+  left: 99px;
+  width: 550px;
+  height: 697px;
+  object-fit: cover;
+}
+.image-4-icon,
+.image-6-icon {
+  top: 246px;
+  left: 62px;
+  width: 1349px;
+  height: 561px;
+}
+.image-6-icon {
+  top: 1301px;
+  left: 819px;
+  width: 602px;
+  height: 661px;
+}
+.chicken-adobo {
+  position: absolute;
+  top: 430px;
+  left: 223px;
+  font-size: 128px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.the-savory-umami-combination-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1474px;
+  height: 3416px;
+  font-size: var(--font-size-5xl);
+}
+.image-5-icon {
+  position: absolute;
+  top: 1301px;
+  left: 62px;
+  width: 753px;
+  height: 353px;
+  object-fit: cover;
+}
+.ingredients {
+  margin: 0;
+  font-weight: 600;
+}
+.knorr-chicken-cube {
+  margin-bottom: 0;
+}
+.lbs-chicken-cut-into-serving {
+  margin: 0;
+  font-size: inherit;
+  padding-left: var(--padding-24xl);
+}
+.ingredients-2-lbs-chicken-cut {
+  position: absolute;
+  top: 2051px;
+  left: 81px;
+}
+.prep-14-minutes-container {
+  position: absolute;
+  top: 2278px;
+  left: 973px;
+  font-weight: 600;
+}
+.instructions-combine-chicken-container {
+  position: absolute;
+  top: 2704px;
+  left: 689px;
+  display: inline-block;
+  width: 754px;
+}
+.image-9-icon,
+.recipe-2-child {
+  position: absolute;
+  top: 3424px;
+  left: 101px;
+  width: 277px;
+  height: 303px;
+  object-fit: cover;
+}
+.recipe-2-child {
+  left: 378px;
+  width: 272px;
+}
+.recipe-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4128px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
