@@ -1,0 +1,173 @@
+.recipe-3-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-sandybrown);
+  width: 1474px;
+  height: 159px;
+}
+.home2 {
+  position: absolute;
+  top: 49px;
+  left: 312px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 398px;
+  height: 176px;
+  opacity: 0.22;
+}
+.college-cooking {
+  margin: 0;
+}
+.college-cooking-recipes-container {
+  position: absolute;
+  top: 42px;
+  left: 57px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 398px;
+  height: 176px;
+  opacity: 0.22;
+}
+.image-16-icon {
+  position: absolute;
+  top: 249px;
+  left: 77px;
+  width: 1320px;
+  height: 556px;
+  object-fit: cover;
+}
+.pork,
+.sinigang {
+  position: absolute;
+  top: 623px;
+  left: 470px;
+  font-size: 180px;
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 486px;
+  height: 210px;
+}
+.sinigang {
+  top: 745px;
+  left: 423px;
+  font-size: 128px;
+  color: var(--color-sandybrown);
+  width: 579px;
+  height: 177px;
+}
+.sinigang-comes-from-container,
+.sinigang-is-a-container {
+  position: absolute;
+  top: 1024px;
+  left: 59px;
+  text-align: center;
+  display: inline-block;
+  width: 1356px;
+}
+.sinigang-comes-from-container {
+  top: 1297px;
+  left: 854px;
+  width: 528px;
+}
+.recipe-3-item {
+  position: absolute;
+  top: 1758px;
+  left: 924px;
+  border-radius: 20px;
+  background: linear-gradient(
+    110.72deg,
+    rgba(255, 255, 255, 0.36),
+    rgba(196, 196, 196, 0.06)
+  );
+  backdrop-filter: blur(30px);
+  border: 3px solid rgba(255, 255, 255, 0.7);
+  box-sizing: border-box;
+  width: 359px;
+  height: 211px;
+}
+.prep-15-minutes-container {
+  position: absolute;
+  top: 1816px;
+  left: 968px;
+  font-weight: 600;
+}
+.ingredients {
+  margin: 0;
+  font-weight: 600;
+}
+.lbs-pork-belly {
+  margin-bottom: 0;
+}
+.lbs-pork-belly-1-lb-young-ta {
+  margin: 0;
+  font-size: inherit;
+  padding-left: var(--padding-24xl);
+}
+.ingredients-2-lbs-pork-container {
+  position: absolute;
+  top: 2029px;
+  left: 737px;
+  text-align: right;
+  display: inline-block;
+  width: 708px;
+}
+.instructions-combine-chicken-container {
+  position: absolute;
+  top: 2742px;
+  left: 14px;
+  display: inline-block;
+  width: 703px;
+}
+.image-19-icon,
+.image-20-icon {
+  position: absolute;
+  top: 2059px;
+  left: 340px;
+  width: 329px;
+  height: 291px;
+  object-fit: cover;
+}
+.image-20-icon {
+  top: 2355px;
+  left: 27px;
+  width: 642px;
+  height: 311px;
+}
+.image-17-icon,
+.image-18-icon,
+.image-21-icon {
+  position: absolute;
+  top: 2801px;
+  left: 768px;
+  width: 677px;
+  height: 1272px;
+  object-fit: cover;
+}
+.image-17-icon,
+.image-18-icon {
+  top: 1263px;
+  left: 25px;
+  width: 714px;
+  height: 699px;
+}
+.image-18-icon {
+  top: 2059px;
+  left: 28px;
+  width: 309px;
+  height: 290px;
+}
+.recipe-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4176px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
